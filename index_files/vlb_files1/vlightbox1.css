@@ -3,9 +3,13 @@
     margin:auto;
 	zoom:1;	
 	margin-bottom:70px;
-			
 }
-
+@media screen and (max-width:800px)
+{
+	#vlightbox1{
+	width:45%;
+	}
+}
 #vlightbox1 .vlightbox1 div{
 	left:0;
 	top:0;
